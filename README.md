@@ -17,4 +17,4 @@ If you notice a bug or if you have any questions, please contact me.
 **LinkedIn :** https://www.linkedin.com/in/sri-aakash06
 **GitHub :** https://github.com/sriaakash06
 
-**Go live :** https://sriaakash06.github.io/SriAakashHousePortfolio-master/
+**Go live :**https://sri-aakash-house-portfolio-master.vercel.app/
