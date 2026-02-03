@@ -107,7 +107,7 @@ export default function TvScreen(props) {
       <mesh
         position={[0.8, 2.25, -3.48]}
         scale={[0.09, 0.12, 0.12]}
-        onClick={() => handleClick("mailto:sriaakash06@gmail.com")}
+        onClick={() => handleClick("mailto:asriaakash@gmail.com")}
       >
         <planeGeometry />
         <meshBasicMaterial map={emailTexture} transparent />

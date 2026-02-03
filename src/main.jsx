@@ -8,7 +8,7 @@ import Loader from './Components/Loader.jsx'
 import App from './App.jsx'
 import './index.css'
 
-console.log("Hi if you notice a bug please contact me sriaakash06@gmail.com")
+console.log("Hi if you notice a bug please contact me asriaakash@gmail.com")
 
 
 const isMobile = () => {
