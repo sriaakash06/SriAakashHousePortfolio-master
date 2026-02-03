@@ -80,7 +80,7 @@ export default function TvScreen(props) {
       <mesh
         position={[0.8, 2.45, -3.48]}
         scale={[0.09, 0.1, 0.1]}
-        onClick={() => handleClick("https://www.linkedin.com/in/sri-aakash-a-34467b292/")}
+        onClick={() => handleClick("https://www.linkedin.com/in/sri-aakash06")}
       >
         <planeGeometry />
         <meshBasicMaterial map={linledinTexture} transparent />

@@ -14,4 +14,7 @@ I made this project with React Three Fiber. I used helpers from Drei. I used GSA
 
 If you notice a bug or if you have any questions, please contact me.
 
+**LinkedIn :** https://www.linkedin.com/in/sri-aakash06
+**GitHub :** https://github.com/sriaakash06
+
 **Go live :** https://sriaakash06.github.io/SriAakashHousePortfolio-master/
