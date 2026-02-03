@@ -5,15 +5,16 @@
 
 ### Welcome to my portfolio
 
-Hi everyone, thanks for being here.
+Hi everyone, welcome to my portfolio.
 
-I am a computer science student. I made this portfolio alongside my studies to increase my web development skills and show them.
+I’m Sri Aakash, a B.Tech Information Technology student with a strong interest in UI/UX design and full-stack web development. I built this 3D portfolio alongside my academic studies to continuously improve my skills and to showcase my work in an interactive way.
 
-Some details about this project.
+About this project:
+This portfolio is developed using React Three Fiber, with utility helpers from Drei. I used GSAP to create smooth camera animations, and the custom visual effects are written using GLSL shaders. The 3D house model was designed and rendered in Blender, then integrated into the web experience.
 
-I made this project with React Three Fiber. I used helpers from Drei. I used GSAP to animate the camera. The shaders are written with GLSL. I used Blender to create the house.
+This project reflects my passion for creative coding, modern web technologies, and interactive user experiences.
 
-If you notice a bug or if you have any questions, please contact me.
+If you notice any bugs, have suggestions, or would like to connect, feel free to reach out to me. I’d be happy to hear your feedback.
 
 **LinkedIn :** https://www.linkedin.com/in/sri-aakash06
 **GitHub :** https://github.com/sriaakash06
