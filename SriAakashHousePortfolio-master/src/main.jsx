@@ -1,4 +1,3 @@
-import { Analytics } from "@vercel/analytics/react"
 
 import ReactDOM from 'react-dom/client'
 import { Canvas } from '@react-three/fiber'
@@ -38,7 +37,6 @@ root.render(
       {/*<Perf position="top-left" />*/}
     </Canvas>
 
-    <Analytics />
     <div style={{ display: "none" }}>
       <section aria-hidden="true">
         <h1>Sri Aakash - Full stack Developer</h1>
