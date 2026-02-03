@@ -1,6 +1,7 @@
 # Sri Aakash's 3D Portfolio
 
-![alt text](exemple.png)
+![Sri Aakash's World](./example.png)
+
 
 ### Welcome to my portfolio
 
