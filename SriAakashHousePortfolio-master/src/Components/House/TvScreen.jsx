@@ -106,7 +106,7 @@ export default function TvScreen(props) {
 
       <mesh
         position={[0.8, 2.25, -3.48]}
-        scale={[0.08, 0.1, 0.1]}
+        scale={[0.09, 0.12, 0.12]}
         onClick={() => handleClick("mailto:sriaakash06@gmail.com")}
       >
         <planeGeometry />
